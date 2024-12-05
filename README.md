@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Hack programming: stack overflow due to infinite recursion. The file `infiniteRecursion.hack` contains a function that recursively calls itself without a base case. This causes the program to crash. The file `infiniteRecursionSolution.hack` shows a corrected version with a base case to prevent the stack overflow.
